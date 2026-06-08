@@ -85,7 +85,8 @@ git clone https://github.com/your-username/HR-Analytics-Dashboard.git
 
 ## 📷 Dashboard Preview
 
-<img width="1317" height="733" alt="image" src="https://github.com/user-attachments/assets/05db5c77-1d01-4b89-855a-4ff22882ff6e" />
+<img width="1157" height="654" alt="Screenshot 2026-06-08 174220" src="https://github.com/user-attachments/assets/c9c45c52-345a-46b4-b3e0-12804a017ff9" />
+
 
 
 
